@@ -1,0 +1,18 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+
+.body-text {
+    padding: 5% 0% 5% 0%;
+    width: 75%;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.comment-container {
+    padding: 0px 50px 0px 50px;
+    margin: 50px 0 50px 0;
+}
+
+.checked {
+    color: orange;
+}

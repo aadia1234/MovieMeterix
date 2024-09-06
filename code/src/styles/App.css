@@ -1,0 +1,17 @@
+.blog-body {
+  min-height: 95.5vh;
+  position: relative;
+}
+
+.blog-content {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+
+footer .navbar {
+  position: relative;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+}
