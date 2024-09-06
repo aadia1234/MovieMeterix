@@ -50,7 +50,7 @@ export default function NavBar() {
             {/* need to fix variant to data-bs-theme */}
             <Navbar sticky="top" bg="primary" expand="lg" variant="dark"> 
                 <Container fluid>
-                    <Navbar.Brand href="/">Movie Review</Navbar.Brand>
+                    <Navbar.Brand href="/">MovieMeterix</Navbar.Brand>
                     <Navbar.Toggle aria-controls="blog-navbar"/>
                     <Navbar.Collapse className="navbar-collapse" id="blog-navbar">
                         <Nav className="me-auto mb-2 mt-2">
