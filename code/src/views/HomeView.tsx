@@ -43,7 +43,7 @@ export default function Home() {
     return (
         <>
             <div className="m-5 p-4 text-center">
-                <h1><b>Welcome to Movie Reviews</b></h1>
+                <h1><b>Welcome to MovieMeterix</b></h1>
                 <br></br>
                 <h5 className="mb-5 mt-3">Search for any movie you wish to learn more about</h5>
                 <br></br>

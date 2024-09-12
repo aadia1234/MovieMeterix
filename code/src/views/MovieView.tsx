@@ -96,8 +96,7 @@ export default function MovieView() {
             <div className="mt-5 text-center">
                 <h1>{movie.title}</h1>
                 <h6>Last Modified: {movieDate.toDateString()}</h6>
-                <h6>Rating: {movie.rating}</h6>
-                {rating()}
+                <h6>Rating: {rating()}</h6>
             </div>
             <div className="body-text">{Parser(movie.body)}</div>
             <hr className="pb-5"/>
